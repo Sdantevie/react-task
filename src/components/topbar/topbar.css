@@ -1,0 +1,8 @@
+.topbar {
+    @apply fixed top-0 flex items-center w-full;
+    @apply text-black px-10 py-2 bg-[#E0E9F7] text-sm;
+}
+
+.topbar .icon {
+    @apply text-[#3D92EC]
+}
