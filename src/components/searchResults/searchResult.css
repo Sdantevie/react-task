@@ -1,0 +1,11 @@
+th {
+    @apply py-4 bg-slate-200;
+}
+
+td {
+    @apply px-4;
+}
+
+.table-content {
+    @apply overflow-y-auto pb-10 h-full;
+}

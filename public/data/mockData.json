@@ -9,7 +9,7 @@
     },
     {
         "order": "0121239349",
-        "type": "AZN",
+        "type": "EDF",
         "item": "2375032624",
         "category": "Structural and Misc Steel (Fabrication)",
         "description": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
@@ -17,7 +17,7 @@
     },
     {
         "order": "8533744226",
-        "type": "HNL",
+        "type": "EDF",
         "item": "5334163255",
         "category": "Painting & Vinyl Wall Covering",
         "description": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
@@ -33,7 +33,7 @@
     },
     {
         "order": "2042222240",
-        "type": "CNY",
+        "type": "CAO",
         "item": "0698018516",
         "category": "Construction Clean and Final Clean",
         "description": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
@@ -73,7 +73,7 @@
     },
     {
         "order": "6090534226",
-        "type": "EUR",
+        "type": "EDF",
         "item": "0665063156",
         "category": "Electrical",
         "description": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
@@ -81,7 +81,7 @@
     },
     {
         "order": "6992547070",
-        "type": "RUB",
+        "type": "SFO",
         "item": "9393029652",
         "category": "Drilled Shafts",
         "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
@@ -121,7 +121,7 @@
     },
     {
         "order": "0291919103",
-        "type": "SEK",
+        "type": "EDF",
         "item": "5856998766",
         "category": "Framing (Steel)",
         "description": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
@@ -145,7 +145,7 @@
     },
     {
         "order": "1787787273",
-        "type": "RUB",
+        "type": "SFO",
         "item": "2911902866",
         "category": "Masonry & Precast",
         "description": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
@@ -153,7 +153,7 @@
     },
     {
         "order": "4011051896",
-        "type": "RUB",
+        "type": "CAO",
         "item": "9643177076",
         "category": "Ornamental Railings",
         "description": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
@@ -201,7 +201,7 @@
     },
     {
         "order": "7380779451",
-        "type": "CNY",
+        "type": "SFO",
         "item": "5413253222",
         "category": "Glass & Glazing",
         "description": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
@@ -241,7 +241,7 @@
     },
     {
         "order": "4137598525",
-        "type": "BRL",
+        "type": "CAO",
         "item": "0774888415",
         "category": "Sitework & Site Utilities",
         "description": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
@@ -249,7 +249,7 @@
     },
     {
         "order": "5191317343",
-        "type": "CNY",
+        "type": "SFO",
         "item": "4994103992",
         "category": "Masonry",
         "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.",
